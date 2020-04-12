@@ -21,8 +21,7 @@ jobs:
     #- name: Install dependencies
     #  run: flutter pub get
     - run: cd android
-    - run: ls
-    #- run: flutter build apk --debug
+    - run: flutter build apk --debug
     #- name: Build debug ios app
     #  run: flutter build ios --debug --no-codesign
     #- name: Save debug apk
