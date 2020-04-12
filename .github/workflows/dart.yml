@@ -17,8 +17,6 @@ jobs:
       with:
         java-version: '12.x'
     - uses: subosito/flutter-action@v1.2.0
-      with:
-        flutter-version: '1.9.1+hotfix.6'
     
     - name: Install dependencies
       run: flutter pub get
