@@ -20,8 +20,10 @@ jobs:
     
     - name: Install dependencies
       run: flutter pub get
-    - run: cd android
-    - run: flutter build apk --debug
+    - name: Build debug apk
+      run: |
+        cd android
+        flutter build apk --debug
     #- name: Build debug ios app
     #  run: flutter build ios --debug --no-codesign
     #- name: Save debug apk
