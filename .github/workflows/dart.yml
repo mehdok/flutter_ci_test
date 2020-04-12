@@ -20,6 +20,8 @@ jobs:
     
     - name: Install dependencies
       run: flutter pub get
+    - name: Change directory
+      run: cd android
     - name: Build debug akp
       run: flutter build apk --debug
     - name: Build debug ios app
