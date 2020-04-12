@@ -16,15 +16,15 @@ jobs:
     - uses: actions/setup-java@v1
       with:
         java-version: '12.x'
-    - uses: subosito/flutter-action@v1
+    - uses: subosito/flutter-action@v1.2.0
       with:
         flutter-version: '1.9.1+hotfix.6'
     
     - name: Install dependencies
       run: flutter pub get
-    - name: Create release akp
+    - name: Build debug akp
       run: flutter build apk --debug
-    - name: Create a Release APK
+    - name: Save debug apk
       uses: ncipollo/release-action@v1
       with:
         artifacts: "build/app/outputs/apk/debug/*.apk"
