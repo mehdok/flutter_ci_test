@@ -1,4 +1,4 @@
-# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/mehdok/flutter_ci_test/releases/)
+# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg) [![GitHub release](https://img.shields.io/github/release/mehdok/flutter_ci_test.svg)](https://GitHub.com/mehdok/flutter_ci_test/releases/)
 
 
 
