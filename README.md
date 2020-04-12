@@ -1,4 +1,5 @@
-# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg)
+# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 
 
 A new Flutter application.
