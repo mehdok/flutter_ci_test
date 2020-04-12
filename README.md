@@ -1,4 +1,5 @@
-# fluttercitest
+# fluttercitest https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg
+
 
 A new Flutter application.
 
