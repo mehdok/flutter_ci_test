@@ -23,7 +23,7 @@ jobs:
     - name: Build debug akp
       run: flutter build apk --debug
     - name: Build debug ios app
-      run: flutter build ios --debug
+      run: flutter build ios --debug --no-codesign
     #- name: Save debug apk
     #  uses: ncipollo/release-action@v1
     #  with:
