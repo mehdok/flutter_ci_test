@@ -1,4 +1,5 @@
-# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg) [![GitHub release](https://img.shields.io/github/v/tag/mehdok/flutter_ci_test.svg?sort=semver)](https://GitHub.com/mehdok/flutter_ci_test/releases/)
+# fluttercitest ![](https://github.com/mehdok/flutter_ci_test/workflows/build/badge.svg) [![GitHub release](https://img.shields.io/github/v/tag/mehdok/flutter_ci_test.svg?sort=semver)](https://GitHub.com/mehdok/flutter_ci_test/releases/) [![pub package](https://img.shields.io/badge/pub-1.1.1-blueviolet.svg)](https://pub.dev/packages/badges)
+
 
 
 
